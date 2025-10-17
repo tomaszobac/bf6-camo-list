@@ -112,7 +112,7 @@ Feel free to report any mistakes or problems.
 | ![Dolomite](PREVIEW/Dolomite.jpg) | [Dolomite](CARBINE/M417_A2/Dolomite.jpg) | [M417](CARBINE/M417_A2) | [CARBINE](CARBINE) |
 | ![Permafrost](PREVIEW/Permafrost.jpg) | [Permafrost](CARBINE/QBZ-192/Permafrost.jpg) | [QBZ-192](CARBINE/QBZ-192) | [CARBINE](CARBINE) |
 | ![Polar Nexus](PREVIEW/Polar_Nexus.jpg) | [Polar Nexus](OTHER/Polar_Nexus.jpg) | Assignment CHALLENGE EXPERT 1 | [OTHER](OTHER) |
-| ![Snowpeaks](PREVIEW/Snow_peaks.jpg) | [Snowpeaks](DMR/SVK-8.6/Snow_peaks.jpg) | [SVK-8.6](DMR/SVK-8.6) | [DMR](DMR) |
+| ![Snow Peaks](PREVIEW/Snow_Peaks.jpg) | [Snow Peaks](DMR/SVK-8.6/Snow_Peaks.jpg) | [SVK-8.6](DMR/SVK-8.6) | [DMR](DMR) |
 | ![Snowtracks](PREVIEW/Snowtracks.jpg) | [Snowtracks](ASSAULT_RIFLE/KORD_6P67/Snowtracks.jpg) | [KORD 6P67](ASSAULT_RIFLE/KORD_6P67) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Urban](PREVIEW/Urban.jpg) | [Urban](LMG/KTS100_MK8/Urban.jpg) | [KTS100 MK8](LMG/KTS100_MK8) | [LMG](LMG) |
 | ![Winter Forecast](PREVIEW/Winter_Forecast.jpg) | [Winter Forecast](SECONDARY/M44/Winter_Forecast.jpg) | [M44](SECONDARY/M44) | [SECONDARY](SECONDARY) |
