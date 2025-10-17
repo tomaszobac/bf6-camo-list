@@ -35,7 +35,6 @@ Feel free to report any mistakes or problems.
 | ![Forest Glitch](PREVIEW/Forest_Glitch.jpg) | [Forest Glitch](LMG/DRS-IAR/Forest_Glitch.jpg) | [DRS-IAR](LMG/DRS-IAR) | [LMG](LMG) |
 | ![Forest Mire](PREVIEW/Forest_Mire.jpg) | [Forest Mire](SMG/PW5A3/Forest_Mire.jpg) | [PW5A3](SMG/PW5A3) | [SMG](SMG) |
 | ![Gator](PREVIEW/Gator.jpg) | [Gator](SMG/SCW-10/Gator.jpg) | [SCW-10](SMG/SCW-10) | [SMG](SMG) |
-| ![Green Gust](PREVIEW/Green_Gust.jpg) | [Green Gust](CARBINE/GRT-BC/Green_Gust.jpg) | [GRT-BC](CARBINE/GRT-BC) | [CARBINE](CARBINE) |
 | ![Harlequin Green](PREVIEW/Harlequin_Green.jpg) | [Harlequin Green](ASSAULT_RIFLE/KORD_6P67/Harlequin_Green.jpg) | [KORD 6P67](ASSAULT_RIFLE/KORD_6P67) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Headwall](PREVIEW/Headwall.jpg) | [Headwall](SMG/UMG-40/Headwall.jpg) | [UMG-40](SMG/UMG-40) | [SMG](SMG) |
 | ![Imperata](PREVIEW/Imperata.jpg) | [Imperata](LMG/L110/Imperata.jpg) | [L110](LMG/L110) | [LMG](LMG) |
@@ -94,7 +93,7 @@ Feel free to report any mistakes or problems.
 | ![Oasis Grid](PREVIEW/Oasis_Grid.jpg) | [Oasis Grid](LMG/M123K/Oasis_Grid.jpg) | [M123K](LMG/M123K) | [LMG](LMG) |
 | ![Outcrop](PREVIEW/Outcrop.jpg) | [Outcrop](LMG/M60/Outcrop.jpg) | [M/60](LMG/M60) | [LMG](LMG) |
 | ![Sagebrush](PREVIEW/Sagebrush.jpg) | [Sagebrush](SHOTGUN/M87A1/Sagebrush.jpg) | [M87A1](SHOTGUN/M87A1) | [SHOTGUN](SHOTGUN) |
-| [Sandbyte](SCDM/Sandbyte.jpg) | [SCDM](SCDM) |  |
+| ![Sandbyte](PREVIEW/Sandbyte.jpg) | [Sandbyte](DMR/SVDM/Sandbyte.jpg) | [SVDM](DMR/SVDM) | [DMR](DMR) |
 | ![Sandlock](PREVIEW/Sandlock.jpg) | [Sandlock](SMG/SGX/Sandlock.jpg) | [SGX](SMG/SGX) | [SMG](SMG) |
 | ![Stratum](PREVIEW/Stratum.jpg) | [Stratum](CARBINE/M4A1/Stratum.jpg) | [M4A1](CARBINE/M4A1) | [CARBINE](CARBINE) |
 | ![Sunworn](PREVIEW/Sunworn.jpg) | [Sunworn](DMR/LMR27/Sunworn.jpg) | [LMR27](DMR/LMR27) | [DMR](DMR) |
@@ -107,13 +106,13 @@ Feel free to report any mistakes or problems.
 | ![Wildwood](PREVIEW/Wildwood.jpg) | [Wildwood](CARBINE/M277/Wildwood.jpg) | [M277](CARBINE/M277) | [CARBINE](CARBINE) |
 | ![Windswept](PREVIEW/Windswept.jpg) | [Windswept](SMG/SGX/Windswept.jpg) | [SGX](SMG/SGX) | [SMG](SMG) |
 | ![Wire](PREVIEW/Wire.jpg) | [Wire](DMR/SVK-8.6/Wire.jpg) | [SVK-8.6](DMR/SVK-8.6) | [DMR](DMR) |
-| ![Cold Fame](PREVIEW/Cold_Fame.jpg) | [Cold Fame](SMG/USG-90/Cold_Fame.jpg) | [USG-90](SMG/USG-90) | [SMG](SMG) |
+| ![Cold Frame](PREVIEW/Cold_Frame.jpg) | [Cold Fame](SMG/USG-90/Cold_Frame.jpg) | [USG-90](SMG/USG-90) | [SMG](SMG) |
 | ![Cold Front](PREVIEW/Cold_Front.jpg) | [Cold Front](SMG/SL9/Cold_Front.jpg) | [SL9](SMG/SL9) | [SMG](SMG) |
 | ![Cryojacket](PREVIEW/Cryojacket.jpg) | [Cryojacket](LMG/RPKM/Cryojacket.jpg) | [RPKM](LMG/RPKM) | [LMG](LMG) |
 | ![Dolomite](PREVIEW/Dolomite.jpg) | [Dolomite](CARBINE/M417_A2/Dolomite.jpg) | [M417](CARBINE/M417_A2) | [CARBINE](CARBINE) |
 | ![Permafrost](PREVIEW/Permafrost.jpg) | [Permafrost](CARBINE/QBZ-192/Permafrost.jpg) | [QBZ-192](CARBINE/QBZ-192) | [CARBINE](CARBINE) |
 | ![Polar Nexus](PREVIEW/Polar_Nexus.jpg) | [Polar Nexus](OTHER/Polar_Nexus.jpg) | Assignment CHALLENGE EXPERT 1 | [OTHER](OTHER) |
-| ![Snowpeaks](PREVIEW/Snowpeaks.jpg) | [Snowpeaks](DMR/SVK-8.6/Snowpeaks.jpg) | [SVK-8.6](DMR/SVK-8.6) | [DMR](DMR) |
+| ![Snowpeaks](PREVIEW/Snow_peaks.jpg) | [Snowpeaks](DMR/SVK-8.6/Snow_peaks.jpg) | [SVK-8.6](DMR/SVK-8.6) | [DMR](DMR) |
 | ![Snowtracks](PREVIEW/Snowtracks.jpg) | [Snowtracks](ASSAULT_RIFLE/KORD_6P67/Snowtracks.jpg) | [KORD 6P67](ASSAULT_RIFLE/KORD_6P67) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Urban](PREVIEW/Urban.jpg) | [Urban](LMG/KTS100_MK8/Urban.jpg) | [KTS100 MK8](LMG/KTS100_MK8) | [LMG](LMG) |
 | ![Winter Forecast](PREVIEW/Winter_Forecast.jpg) | [Winter Forecast](SECONDARY/M44/Winter_Forecast.jpg) | [M44](SECONDARY/M44) | [SECONDARY](SECONDARY) |
