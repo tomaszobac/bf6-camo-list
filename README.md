@@ -35,6 +35,7 @@ Feel free to report any mistakes or problems.
 | ![Forest Glitch](PREVIEW/Forest_Glitch.jpg) | [Forest Glitch](LMG/DRS-IAR/Forest_Glitch.jpg) | [DRS-IAR](LMG/DRS-IAR) | [LMG](LMG) |
 | ![Forest Mire](PREVIEW/Forest_Mire.jpg) | [Forest Mire](SMG/PW5A3/Forest_Mire.jpg) | [PW5A3](SMG/PW5A3) | [SMG](SMG) |
 | ![Gator](PREVIEW/Gator.jpg) | [Gator](SMG/SCW-10/Gator.jpg) | [SCW-10](SMG/SCW-10) | [SMG](SMG) |
+| ![Green Gust](PREVIEW/Green_Gust.jpg) | [Green Gust](CARBINE/GRT-BC/Green_Gust.jpg) | [GRT-BC](CARBINE/GRT-BC) | [CARBINE](CARBINE) |
 | ![Harlequin Green](PREVIEW/Harlequin_Green.jpg) | [Harlequin Green](ASSAULT_RIFLE/KORD_6P67/Harlequin_Green.jpg) | [KORD 6P67](ASSAULT_RIFLE/KORD_6P67) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Headwall](PREVIEW/Headwall.jpg) | [Headwall](SMG/UMG-40/Headwall.jpg) | [UMG-40](SMG/UMG-40) | [SMG](SMG) |
 | ![Imperata](PREVIEW/Imperata.jpg) | [Imperata](LMG/L110/Imperata.jpg) | [L110](LMG/L110) | [LMG](LMG) |
