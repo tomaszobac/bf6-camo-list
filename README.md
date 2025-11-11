@@ -27,8 +27,8 @@ Feel free to report any mistakes or problems.
 | ![Chaparral](PREVIEW/Chaparral.jpg) | [Chaparral](ASSAULT_RIFLE/NVO-228E/Chaparral.jpg) | [NVO-228E](ASSAULT_RIFLE/NVO-228E) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Chromatic](PREVIEW/Chromatic.jpg) | [Chromatic](ASSAULT_RIFLE/TR-7/Chromatic.jpg) | [TR-7](ASSAULT_RIFLE/TR-7) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Coppice](PREVIEW/Coppice.jpg) | [Coppice](ASSAULT_RIFLE/M433/Coppice.jpg) | [M433](ASSAULT_RIFLE/M433) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
-| ![Copse](PREVIEW/Copse.jpg) | [Copse](OTHER/Copse.jpg) | Unavailable | [OTHER](OTHER) |
-| ![Earthwork](PREVIEW/Earthwork.jpg) | [Earthwork](OTHER/Earthwork.jpg) | Unavailable | [OTHER](OTHER) |
+| ![Copse](PREVIEW/Copse.jpg) | [Copse](SECONDARY/GGH-22/Copse.jpg) | [GGH-22](SECONDARY/GGH-22) | [SECONDARY](SECONDARY) |
+| ![Earthwork](PREVIEW/Earthwork.jpg) | [Earthwork](SECONDARY/GGH-22/Earthwork.jpg) | [GGH-22](SECONDARY/GGH-22) | [SECONDARY](SECONDARY) |
 | ![Encoded](PREVIEW/Encoded.jpg) | [Encoded](ASSAULT_RIFLE/B36A4/Encoded.jpg) | [B36A4](ASSAULT_RIFLE/B36A4) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Evergreen](PREVIEW/Evergreen.jpg) | [Evergreen](CARBINE/SG_553R/Evergreen.jpg) | [SG 553R](CARBINE/SG_553R) | [CARBINE](CARBINE) |
 | ![Fallen Bark](PREVIEW/Fallen_Bark.jpg) | [Fallen Bark](ASSAULT_RIFLE/SOR-556_MK2/Fallen_Bark.jpg) | [SOR-556 MK2](ASSAULT_RIFLE/SOR-556_MK2) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
@@ -39,7 +39,7 @@ Feel free to report any mistakes or problems.
 | ![Harlequin Green](PREVIEW/Harlequin_Green.jpg) | [Harlequin Green](ASSAULT_RIFLE/KORD_6P67/Harlequin_Green.jpg) | [KORD 6P67](ASSAULT_RIFLE/KORD_6P67) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Headwall](PREVIEW/Headwall.jpg) | [Headwall](SMG/UMG-40/Headwall.jpg) | [UMG-40](SMG/UMG-40) | [SMG](SMG) |
 | ![Imperata](PREVIEW/Imperata.jpg) | [Imperata](LMG/L110/Imperata.jpg) | [L110](LMG/L110) | [LMG](LMG) |
-| ![Jungle Raze](PREVIEW/Jungle_Raze.jpg) | [Jungle Raze](OTHER/Jungle_Raze.jpg) | Unavailable | [OTHER](OTHER) |
+| ![Jungle Raze](PREVIEW/Jungle_Raze.jpg) | [Jungle Raze](OTHER/Jungle_Raze.jpg) | Challenge BATTLE ROYALE CHALLENGE 5 | [OTHER](OTHER) |
 | ![Leaf Fall](PREVIEW/Leaf_Fall.jpg) | [Leaf Fall](SMG/SCW-10/Leaf_Fall.jpg) | [SCW-10](SMG/SCW-10) | [SMG](SMG) |
 | ![Leatherback](PREVIEW/Leatherback.jpg) | [Leatherback](ASSAULT_RIFLE/M433/Leatherback.jpg) | [M433](ASSAULT_RIFLE/M433) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Lichen](PREVIEW/Lichen.jpg) | [Lichen](SHOTGUN/18.5KS-K/Lichen.jpg) | [18.5KS-K](SHOTGUN/18.5KS-K) | [SHOTGUN](SHOTGUN) |
@@ -70,7 +70,7 @@ Feel free to report any mistakes or problems.
 | ![Verglas](PREVIEW/Verglas.jpg) | [Verglas](ASSAULT_RIFLE/KORD_6P67/Verglas.jpg) | [KORD 6P67](ASSAULT_RIFLE/KORD_6P67) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Wetland](PREVIEW/Wetland.jpg) | [Wetland](ASSAULT_RIFLE/B36A4/Wetland.jpg) | [B36A4](ASSAULT_RIFLE/B36A4) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Wild Felidae](PREVIEW/Wild_Felidae.jpg) | [Wild Felidae](CARBINE/M417_A2/Wild_Felidae.jpg) | [M417 A2](CARBINE/M417_A2) | [CARBINE](CARBINE) |
-| ![Woodland](PREVIEW/Woodland.jpg) | [Woodland](OTHER/Woodland.jpg) | Unavailable | [OTHER](OTHER) |
+| ![Woodland](PREVIEW/Woodland.jpg) | [Woodland](SECONDARY/GGH-22/Woodland.jpg) | [GGH-22](SECONDARY/GGH-22) | [SECONDARY](SECONDARY) |
 | ![Arboreal](PREVIEW/Arboreal.jpg) | [Arboreal](LMG/DRS-IAR/Arboreal.jpg) | [DRS-IAR](LMG/DRS-IAR) | [LMG](LMG) |
 | ![Barren](PREVIEW/Barren.jpg) | [Barren](LMG/DRS-IAR/Barren.jpg) | [DRS-IAR](LMG/DRS-IAR) | [LMG](LMG) |
 | ![Saguaro](PREVIEW/Saguaro.jpg) | [Saguaro](SMG/PW5A3/Saguaro.jpg) | [PW5A3](SMG/PW5A3) | [SMG](SMG) |
@@ -147,3 +147,9 @@ Feel free to report any mistakes or problems.
 | ![Subdivide](PREVIEW/Subdivide.jpg) | [Subdivide](ASSAULT_RIFLE/AK4D/Subdivide.jpg) | [AK4D](ASSAULT_RIFLE/AK4D) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Torrent](PREVIEW/Torrent.jpg) | [Torrent](ASSAULT_RIFLE/AK4D/Torrent.jpg) | [AK4D](ASSAULT_RIFLE/AK4D) | [ASSAULT_RIFLE](ASSAULT_RIFLE) |
 | ![Valley](PREVIEW/Valley.jpg) | [Valley](SECONDARY/M44/Valley.jpg) | [M44](SECONDARY/M44) | [SECONDARY](SECONDARY) |
+| ![Forester](PREVIEW/Forester.jpg) | [Forester](CARBINE/SOR-300SC/Forester.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
+| ![Urban_Splash](PREVIEW/Urban_Splash.jpg) | [Urban_Splash](CARBINE/SOR-300SC/Urban_Splash.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
+| ![Snowmelt](PREVIEW/Snowmelt.jpg) | [Snowmelt](CARBINE/SOR-300SC/Snowmelt.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
+| ![Flecks](PREVIEW/Flecks.jpg) | [Flecks](SNIPER_RIFLE/MINI_SCOUT/Flecks.jpg) | [MINI_SCOUT](SNIPER_RIFLE/MINI_SCOUT) | [SNIPER_RIFLE](SNIPER_RIFLE) |
+| ![Disruptive](PREVIEW/Disruptive.jpg) | [Disruptive](SNIPER_RIFLE/MINI_SCOUT/Disruptive.jpg) | [MINI_SCOUT](SNIPER_RIFLE/MINI_SCOUT) | [SNIPER_RIFLE](SNIPER_RIFLE) |
+| ![Digitalis](PREVIEW/Digitalis.jpg) | [Digitalis](SNIPER_RIFLE/MINI_SCOUT/Digitalis.jpg) | [MINI_SCOUT](SNIPER_RIFLE/MINI_SCOUT) | [SNIPER_RIFLE](SNIPER_RIFLE) |
