@@ -148,14 +148,23 @@ Feel free to report any mistakes or problems.
 | ![Torrent](PREVIEW/Torrent.jpg) | [Torrent](ASSAULT_RIFLE/AK4D/Torrent.jpg) | [AK4D](ASSAULT_RIFLE/AK4D) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
 | ![Valley](PREVIEW/Valley.jpg) | [Valley](SECONDARY/M44/Valley.jpg) | [M44](SECONDARY/M44) | [SECONDARY](SECONDARY) |
 | ![Forester](PREVIEW/Forester.jpg) | [Forester](CARBINE/SOR-300SC/Forester.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
-| ![Urban_Splash](PREVIEW/Urban_Splash.jpg) | [Urban Splash](CARBINE/SOR-300SC/Urban_Splash.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
+| ![Urban Splash](PREVIEW/Urban_Splash.jpg) | [Urban Splash](CARBINE/SOR-300SC/Urban_Splash.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
 | ![Snowmelt](PREVIEW/Snowmelt.jpg) | [Snowmelt](CARBINE/SOR-300SC/Snowmelt.jpg) | [SOR-300SC](CARBINE/SOR-300SC) | [CARBINE](CARBINE) |
 | ![Flecks](PREVIEW/Flecks.jpg) | [Flecks](SNIPER_RIFLE/MINI_SCOUT/Flecks.jpg) | [MINI SCOUT](SNIPER_RIFLE/MINI_SCOUT) | [SNIPER RIFLE](SNIPER_RIFLE) |
 | ![Disruptive](PREVIEW/Disruptive.jpg) | [Disruptive](SNIPER_RIFLE/MINI_SCOUT/Disruptive.jpg) | [MINI SCOUT](SNIPER_RIFLE/MINI_SCOUT) | [SNIPER RIFLE](SNIPER_RIFLE) |
 | ![Digitalis](PREVIEW/Digitalis.jpg) | [Digitalis](SNIPER_RIFLE/MINI_SCOUT/Digitalis.jpg) | [MINI SCOUT](SNIPER_RIFLE/MINI_SCOUT) | [SNIPER RIFLE](SNIPER_RIFLE) |
-| ![Compact_Ice](PREVIEW/Compact_Ice.jpg) | [Compact Ice](SECONDARY/M357_TRAIT/Compact_Ice.jpg) | [M357 TRAIT](SECONDARY/M357_TRAIT) | [SECONDARY](SECONDARY) |
-| ![Mud_Splash](PREVIEW/Mud_Splash.jpg) | [Mud Splash](SECONDARY/M357_TRAIT/Mud_Splash.jpg) | [M357 TRAIT](SECONDARY/M357_TRAIT) | [SECONDARY](SECONDARY) |
-| ![Scratched_Surface](PREVIEW/Scratched_Surface.jpg) | [Scratched Surface](SECONDARY/M357_TRAIT/Scratched_Surface.jpg) | [M357 TRAIT](SECONDARY/M357_TRAIT) | [SECONDARY](SECONDARY) |
+| ![Compact Ice](PREVIEW/Compact_Ice.jpg) | [Compact Ice](SECONDARY/M357_TRAIT/Compact_Ice.jpg) | [M357 TRAIT](SECONDARY/M357_TRAIT) | [SECONDARY](SECONDARY) |
+| ![Mud Splash](PREVIEW/Mud_Splash.jpg) | [Mud Splash](SECONDARY/M357_TRAIT/Mud_Splash.jpg) | [M357 TRAIT](SECONDARY/M357_TRAIT) | [SECONDARY](SECONDARY) |
+| ![Scratched Surface](PREVIEW/Scratched_Surface.jpg) | [Scratched Surface](SECONDARY/M357_TRAIT/Scratched_Surface.jpg) | [M357 TRAIT](SECONDARY/M357_TRAIT) | [SECONDARY](SECONDARY) |
 | ![Graffiti](PREVIEW/Graffiti.jpg) | [Graffiti](SHOTGUN/DB-12/Graffiti.jpg) | [DB-12](SHOTGUN/DB-12) | [SHOTGUN](SHOTGUN) |
-| ![Cracked_Terrain](PREVIEW/Cracked_Terrain.jpg) | [Cracked Terrain](SHOTGUN/DB-12/Cracked_Terrain.jpg) | [DB-12](SHOTGUN/DB-12) | [SHOTGUN](SHOTGUN) |
-| ![Washed_Out](PREVIEW/Washed_Out.jpg) | [Washed Out](SHOTGUN/DB-12/Washed_Out.jpg) | [DB-12](SHOTGUN/DB-12) | [SHOTGUN](SHOTGUN) |
+| ![Cracked Terrain](PREVIEW/Cracked_Terrain.jpg) | [Cracked Terrain](SHOTGUN/DB-12/Cracked_Terrain.jpg) | [DB-12](SHOTGUN/DB-12) | [SHOTGUN](SHOTGUN) |
+| ![Washed Out](PREVIEW/Washed_Out.jpg) | [Washed Out](SHOTGUN/DB-12/Washed_Out.jpg) | [DB-12](SHOTGUN/DB-12) | [SHOTGUN](SHOTGUN) |
+| ![Autumn Undergrowth](PREVIEW/Autumn_Undergrowth.jpg) | [Autumn Undergrowth](LMG/M121_A2/Autumn_Undergrowth.jpg) | [M121 A2](LMG/M121_A2) | [LMG](LMG) |
+| ![Boscage](PREVIEW/Boscage.jpg) | [Boscage](LMG/M121_A2/Boscage.jpg) | [M121 A2](LMG/M121_A2) | [LMG](LMG) |
+| ![Backwoods](PREVIEW/Backwoods.jpg) | [Backwoods](LMG/M121_A2/Backwoods.jpg) | [M121 A2](LMG/M121_A2) | [LMG](LMG) |
+| ![Lichen](PREVIEW/Lichen2.jpg) | [Lichen](DMR/GRT-CPS/Lichen2.jpg) | [GRT-CPS](DMR/GRT-CPS) | [DMR](DMR) |
+| ![Snowdrop](PREVIEW/Snowdrop.jpg) | [Snowdrop](DMR/GRT-CPS/Snowdrop.jpg) | [GRT-CPS](DMR/GRT-CPS) | [DMR](DMR) |
+| ![Estuary](PREVIEW/Estuary.jpg) | [Estuary](DMR/GRT-CPS/Estuary.jpg) | [GRT-CPS](DMR/GRT-CPS) | [DMR](DMR) |
+| ![Wetlands](PREVIEW/Wetlands.jpg) | [Wetlands](ASSAULT_RIFLE/VCR-2/Wetlands.jpg) | [VCR-2](ASSAULT_RIFLE/VCR-2) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Oxidization](PREVIEW/Oxidization.jpg) | [Oxidization](ASSAULT_RIFLE/VCR-2/Oxidization.jpg) | [VCR-2](ASSAULT_RIFLE/VCR-2) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Shrubbery](PREVIEW/Shrubbery.jpg) | [Shrubbery](ASSAULT_RIFLE/VCR-2/Shrubbery.jpg) | [VCR-2](ASSAULT_RIFLE/VCR-2) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
