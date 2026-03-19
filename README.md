@@ -168,3 +168,9 @@ Feel free to report any mistakes or problems.
 | ![Wetlands](PREVIEW/Wetlands.jpg) | [Wetlands](ASSAULT_RIFLE/VCR-2/Wetlands.jpg) | [VCR-2](ASSAULT_RIFLE/VCR-2) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
 | ![Oxidization](PREVIEW/Oxidization.jpg) | [Oxidization](ASSAULT_RIFLE/VCR-2/Oxidization.jpg) | [VCR-2](ASSAULT_RIFLE/VCR-2) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
 | ![Shrubbery](PREVIEW/Shrubbery.jpg) | [Shrubbery](ASSAULT_RIFLE/VCR-2/Shrubbery.jpg) | [VCR-2](ASSAULT_RIFLE/VCR-2) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Acid Rain](PREVIEW/Acid_Rain.jpg) | [Acid Rain](SMG/CZ3A1/Acid_Rain.jpg) | [CZ3A1](SMG/CZ3A1) | [SMG](SMG) |
+| ![Murky Prowl](PREVIEW/Murky_Prowl.jpg) | [Murky Prowl](SMG/CZ3A1/Murky_Prowl.jpg) | [CZ3A1](SMG/CZ3A1) | [SMG](SMG) |
+| ![Cobbled Stalk](PREVIEW/Cobbled_Stalk.jpg) | [Cobbled Stalk](SMG/CZ3A1/Cobbled_Stalk.jpg) | [CZ3A1](SMG/CZ3A1) | [SMG](SMG) |
+| ![Undergrowth](PREVIEW/Undergrowth.jpg) | [Undergrowth](SECONDARY/VZ._61/Undergrowth.jpg) | [VZ. 61](SECONDARY/VZ._61) | [SECONDARY](SECONDARY) |
+| ![Swamp Bark](PREVIEW/Swamp_Bark.jpg) | [Swamp Bark](SECONDARY/VZ._61/Swamp_Bark.jpg) | [VZ. 61](SECONDARY/VZ._61) | [SECONDARY](SECONDARY) |
+| ![Scatter Track](PREVIEW/Scatter_Track.jpg) | [Scatter Track](SECONDARY/VZ._61/Scatter_Track.jpg) | [VZ. 61](SECONDARY/VZ._61) | [SECONDARY](SECONDARY) |
