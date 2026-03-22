@@ -3,6 +3,8 @@
 A complete database of all Battlefield 6 weapons and their camos currently in the game, organized into folders by the weapon class.  
 Feel free to report any mistakes or problems.
 
+***If you found this repo helpful, please consider giving it a star*** ☆
+
 ### Search in this table to quickly move around
 
 | Preview | Camo | Weapon | Class |
