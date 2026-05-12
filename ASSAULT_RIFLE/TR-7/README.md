@@ -1,8 +1,8 @@
 # TR-7
 
-## Cloudburst - Mastery 20
+## Cloudburst - Mastery 5
 ![Cloudburst](Cloudburst.jpg)
-## Circuit - Mastery 30
+## Circuit - Mastery 15
 ![Circuit](Circuit.jpg)
-## Chromatic - Mastery 40
+## Chromatic - Mastery 30
 ![Chromatic](Chromatic.jpg)

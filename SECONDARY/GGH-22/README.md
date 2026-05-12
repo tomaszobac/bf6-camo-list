@@ -1,8 +1,8 @@
 # GGH-22
 
-## Earthwork - Mastery 20
+## Earthwork - Mastery 5
 ![Earthwork](Earthwork.jpg)
-## Woodland - Mastery 30
+## Woodland - Mastery 15
 ![Woodland](Woodland.jpg)
-## Copse - Mastery 40
+## Copse - Mastery 30
 ![Copse](Copse.jpg)

@@ -1,8 +1,8 @@
 # M39 EMR
 
-## Nightbark - Mastery 20
+## Nightbark - Mastery 5
 ![Nightbark](Nightbark.jpg)
-## Roadway - Mastery 30
+## Roadway - Mastery 15
 ![Roadway](Roadway.jpg)
-## Smudge Land - Mastery 40
+## Smudge Land - Mastery 30
 ![Smudge_Land](Smudge_Land.jpg)

@@ -1,8 +1,8 @@
 # NVO-228E
 
-## Shear Zone - Mastery 20
+## Shear Zone - Mastery 5
 ![Shear_Zone](Shear_Zone.jpg)
-## Chaparral - Mastery 30
+## Chaparral - Mastery 15
 ![Chaparral](Chaparral.jpg)
-## Botanical - Mastery 40
+## Botanical - Mastery 30
 ![Botanical](Botanical.jpg)

@@ -1,8 +1,8 @@
 # AK4D
 
-## Boreal - Mastery 20
+## Boreal - Mastery 5
 ![Boreal](Boreal.jpg)
-## Subdivide - Mastery 30
+## Subdivide - Mastery 15
 ![Subdivide](Subdivide.jpg)
-## Torrent - Mastery 40
+## Torrent - Mastery 30
 ![Torrent](Torrent.jpg)

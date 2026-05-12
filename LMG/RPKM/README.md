@@ -1,8 +1,8 @@
 # RPKM
 
-## Cryojacket - Mastery 20
+## Cryojacket - Mastery 5
 ![Cryojacket](Cryojacket.jpg)
-## Stain - Mastery 30
+## Stain - Mastery 15
 ![Stain](Stain.jpg)
-## Mud - Mastery 40
+## Mud - Mastery 30
 ![Mud](Mud.jpg)

@@ -1,8 +1,8 @@
 # M417 A2
 
-## Wild Felidae - Mastery 20
+## Wild Felidae - Mastery 5
 ![Wild_Felidae](Wild_Felidae.jpg)
-## Glitch - Mastery 30
+## Glitch - Mastery 15
 ![Glitch](Glitch.jpg)
-## Dolomite - Mastery 40
+## Dolomite - Mastery 30
 ![Dolomite](Dolomite.jpg)

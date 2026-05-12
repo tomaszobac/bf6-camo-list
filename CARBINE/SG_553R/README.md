@@ -1,8 +1,8 @@
 # SG 553R
 
-## Scarified - Mastery 20
+## Scarified - Mastery 5
 ![Scarified](Scarified.jpg)
-## Evergreen - Mastery 30
+## Evergreen - Mastery 15
 ![Evergreen](Evergreen.jpg)
-## Overgrowth - Mastery 40
+## Overgrowth - Mastery 30
 ![Overgrowth](Overgrowth.jpg)

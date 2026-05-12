@@ -1,8 +1,8 @@
 # P18
 
-## Snowcap - Mastery 20
+## Snowcap - Mastery 5
 ![Snowcap](Snowcap.jpg)
-## Carapace - Mastery 30
+## Carapace - Mastery 15
 ![Carapace](Carapace.jpg)
-## Wintergreen - Mastery 40
+## Wintergreen - Mastery 30
 ![Wintergreen](Wintergreen.jpg)

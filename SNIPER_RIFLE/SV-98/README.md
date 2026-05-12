@@ -1,8 +1,8 @@
 # SV-98
 
-## Whiptail - Mastery 20
+## Whiptail - Mastery 5
 ![Whiptail](Whiptail.jpg)
-## Grey Marsh - Mastery 30
+## Grey Marsh - Mastery 15
 ![Grey_Marsh](Grey_Marsh.jpg)
-## Forest Shutter - Mastery 40
+## Forest Shutter - Mastery 30
 ![Forest_Shutter](Forest_Shutter.jpg)

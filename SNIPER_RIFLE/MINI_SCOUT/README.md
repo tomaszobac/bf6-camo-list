@@ -1,8 +1,8 @@
 # MINI SCOUT
 
-## Flecks - Mastery 20
+## Flecks - Mastery 5
 ![Flecks](Flecks.jpg)
-## Digitalis - Mastery 30
+## Digitalis - Mastery 15
 ![Digitalis](Digitalis.jpg)
-## Disruptive - Mastery 40
+## Disruptive - Mastery 30
 ![Disruptive](Disruptive.jpg)

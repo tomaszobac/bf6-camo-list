@@ -1,8 +1,8 @@
 # AK-205
 
-## Royal Fern - Mastery 20
+## Royal Fern - Mastery 5
 ![Royal_Fern](Royal_Fern.jpg)
-## Graphic - Mastery 30
+## Graphic - Mastery 15
 ![Graphic](Graphic.jpg)
-## Marsh - Mastery 40
+## Marsh - Mastery 30
 ![Marsh](Marsh.jpg)

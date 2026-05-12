@@ -1,8 +1,8 @@
 # M250
 
-## Pixel Pine - Mastery 20
+## Pixel Pine - Mastery 5
 ![Pixel_Pine](Pixel_Pine.jpg)
-## Nucleated - Mastery 30
+## Nucleated - Mastery 15
 ![Nucleated](Nucleated.jpg)
-## Branch - Mastery 40
+## Branch - Mastery 30
 ![Branch](Branch.jpg)

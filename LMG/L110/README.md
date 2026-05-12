@@ -1,8 +1,8 @@
 # L110
 
-## Splatter - Mastery 20
+## Splatter - Mastery 5
 ![Splatter](Splatter.jpg)
-## Sylvan - Mastery 30
+## Sylvan - Mastery 15
 ![Sylvan](Sylvan.jpg)
-## Imperata - Mastery 40
+## Imperata - Mastery 30
 ![Imperata](Imperata.jpg)

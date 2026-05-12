@@ -1,8 +1,8 @@
 # KTS100 MK8
 
-## Urban - Mastery 20
+## Urban - Mastery 5
 ![Urban](Urban.jpg)
-## Mangrove - Mastery 30
+## Mangrove - Mastery 15
 ![Mangrove](Mangrove.jpg)
-## Heat Signature - Mastery 40
+## Heat Signature - Mastery 30
 ![Heat_Signature](Heat_Signature.jpg)

@@ -1,8 +1,8 @@
 # SVDM
 
-## Sandbyte - Mastery 20
+## Sandbyte - Mastery 5
 ![Sandbyte](Sandbyte.jpg)
-## Hinterland - Mastery 30
+## Hinterland - Mastery 15
 ![Hinterland](Hinterland.jpg)
-## Everglade - Mastery 40
+## Everglade - Mastery 30
 ![Everglade](Everglade.jpg)

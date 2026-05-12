@@ -1,8 +1,8 @@
 # M45A1
 
-## Diamondback - Mastery 20
+## Diamondback - Mastery 5
 ![Diamondback](Diamondback.jpg)
-## Brushwood - Mastery 30
+## Brushwood - Mastery 15
 ![Brushwood](Brushwood.jpg)
-## Tigris - Mastery 40
+## Tigris - Mastery 30
 ![Tigris](Tigris.jpg)

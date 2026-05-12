@@ -1,8 +1,8 @@
 # QBZ-192
 
-## Blistered - Mastery 20
+## Blistered - Mastery 5
 ![Blistered](Blistered.jpg)
-## Dunes - Mastery 30
+## Dunes - Mastery 15
 ![Dunes](Dunes.jpg)
-## Permafrost - Mastery 40
+## Permafrost - Mastery 30
 ![Permafrost](Permafrost.jpg)

@@ -1,8 +1,8 @@
 # M4A1
 
-## Twilight - Mastery 20
+## Twilight - Mastery 5
 ![Twilight](Twilight.jpg)
-## Sherwood - Mastery 30
+## Sherwood - Mastery 15
 ![Sherwood](Sherwood.jpg)
-## Stratum - Mastery 40
+## Stratum - Mastery 30
 ![Stratum](Stratum.jpg)
