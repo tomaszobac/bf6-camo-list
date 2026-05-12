@@ -174,3 +174,12 @@ Feel free to report any mistakes or problems.
 | ![Undergrowth](PREVIEW/Undergrowth.jpg) | [Undergrowth](SECONDARY/VZ._61/Undergrowth.jpg) | [VZ. 61](SECONDARY/VZ._61) | [SECONDARY](SECONDARY) |
 | ![Swamp Bark](PREVIEW/Swamp_Bark.jpg) | [Swamp Bark](SECONDARY/VZ._61/Swamp_Bark.jpg) | [VZ. 61](SECONDARY/VZ._61) | [SECONDARY](SECONDARY) |
 | ![Scatter Track](PREVIEW/Scatter_Track.jpg) | [Scatter Track](SECONDARY/VZ._61/Scatter_Track.jpg) | [VZ. 61](SECONDARY/VZ._61) | [SECONDARY](SECONDARY) |
+| ![Trodden Grounds](PREVIEW/Trodden_Grounds.jpg) | [Trodden Grounds](ASSAULT_RIFLE/M16A4/Trodden_Grounds.jpg) | [M16A4](ASSAULT_RIFLE/M16A4) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Minted Refresh](PREVIEW/Minted_Refresh.jpg) | [Minted Refresh](ASSAULT_RIFLE/M16A4/Minted_Refresh.jpg) | [M16A4](ASSAULT_RIFLE/M16A4) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Cranial](PREVIEW/Cranial.jpg) | [Cranial](ASSAULT_RIFLE/M16A4/Cranial.jpg) | [M16A4](ASSAULT_RIFLE/M16A4) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Deepwater](PREVIEW/Deepwater.jpg) | [Deepwater](LMG/RPK-74M/Deepwater.jpg) | [RPK-74M](LMG/RPK-74M) | [LMG](LMG) |
+| ![Crimson Slash](PREVIEW/Crimson_Slash.jpg) | [Crimson Slash](LMG/RPK-74M/Crimson_Slash.jpg) | [RPK-74M](LMG/RPK-74M) | [LMG](LMG) |
+| ![Blasted Clay](PREVIEW/Blasted_Clay.jpg) | [Blasted Clay](LMG/RPK-74M/Blasted_Clay.jpg) | [RPK-74M](LMG/RPK-74M) | [LMG](LMG) |
+| ![Sediment](PREVIEW/Sediment.jpg) | [Sediment](SNIPER_RIFLE/L115/Sediment.jpg) | [L115](SNIPER_RIFLE/L115) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Mired Loch](PREVIEW/Mired_Loch.jpg) | [Mired Loch](SNIPER_RIFLE/L115/Mired_Loch.jpg) | [L115](SNIPER_RIFLE/L115) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Concrete Jungle](PREVIEW/Concrete_Jungle.jpg) | [Concrete Jungle](SNIPER_RIFLE/L115/Concrete_Jungle.jpg) | [L115](SNIPER_RIFLE/L115) | [SNIPER RIFLE](SNIPER_RIFLE) |
