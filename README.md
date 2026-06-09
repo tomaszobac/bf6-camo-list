@@ -185,3 +185,6 @@ Feel free to report any mistakes or problems.
 | ![Sediment](PREVIEW/Sediment.jpg) | [Sediment](SNIPER_RIFLE/L115/Sediment.jpg) | [L115](SNIPER_RIFLE/L115) | [SNIPER RIFLE](SNIPER_RIFLE) |
 | ![Mired Loch](PREVIEW/Mired_Loch.jpg) | [Mired Loch](SNIPER_RIFLE/L115/Mired_Loch.jpg) | [L115](SNIPER_RIFLE/L115) | [SNIPER RIFLE](SNIPER_RIFLE) |
 | ![Concrete Jungle](PREVIEW/Concrete_Jungle.jpg) | [Concrete Jungle](SNIPER_RIFLE/L115/Concrete_Jungle.jpg) | [L115](SNIPER_RIFLE/L115) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Serrated Edge](PREVIEW/Serrated_Edge.jpg) | [Serrated Edge](SMG/PP-19/Serrated_Edge.jpg) | [PP-19](SMG/PP-19) | [SMG](SMG) |
+| ![Springtail](PREVIEW/Springtail.jpg) | [Springtail](SMG/PP-19/Springtail.jpg) | [PP-19](SMG/PP-19) | [SMG](SMG) |
+| ![Aurous](PREVIEW/Aurous.jpg) | [Aurous](SMG/PP-19/Aurous.jpg) | [PP-19](SMG/PP-19) | [SMG](SMG) |
