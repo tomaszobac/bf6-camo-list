@@ -188,3 +188,12 @@ Feel free to report any mistakes or problems.
 | ![Serrated Edge](PREVIEW/Serrated_Edge.jpg) | [Serrated Edge](SMG/PP-19/Serrated_Edge.jpg) | [PP-19](SMG/PP-19) | [SMG](SMG) |
 | ![Springtail](PREVIEW/Springtail.jpg) | [Springtail](SMG/PP-19/Springtail.jpg) | [PP-19](SMG/PP-19) | [SMG](SMG) |
 | ![Aurous](PREVIEW/Aurous.jpg) | [Aurous](SMG/PP-19/Aurous.jpg) | [PP-19](SMG/PP-19) | [SMG](SMG) |
+| ![Seafloor_Dispersion](PREVIEW/Seafloor_Dispersion.jpg) | [Seafloor Dispersion](ASSAULT_RIFLE/EF88/Seafloor_Dispersion.jpg) | [EF88](ASSAULT_RIFLE/EF88) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Algae_Bloom](PREVIEW/Algae_Bloom.jpg) | [Algae Bloom](ASSAULT_RIFLE/EF88/Algae_Bloom.jpg) | [EF88](ASSAULT_RIFLE/EF88) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Sargassum](PREVIEW/Sargassum.jpg) | [Sargassum](ASSAULT_RIFLE/EF88/Sargassum.jpg) | [EF88](ASSAULT_RIFLE/EF88) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Splintered_Polynya](PREVIEW/Splintered_Polynya.jpg) | [Splintered Polynya](CARBINE/BROD_3/Splintered_Polynya.jpg) | [BROD 3](CARBINE/BROD_3) | [CARBINE](CARBINE) |
+| ![Kelp_Field](PREVIEW/Kelp_Field.jpg) | [Kelp Field](CARBINE/BROD_3/Kelp_Field.jpg) | [BROD 3](CARBINE/BROD_3) | [CARBINE](CARBINE) |
+| ![Brine_Splash](PREVIEW/Brine_Splash.jpg) | [Brine Splash](CARBINE/BROD_3/Brine_Splash.jpg) | [BROD 3](CARBINE/BROD_3) | [CARBINE](CARBINE) |
+| ![Cresting_Wave](PREVIEW/Cresting_Wave.jpg) | [Cresting Wave](DMR/VSSM/Cresting_Wave.jpg) | [VSSM](DMR/VSSM) | [DMR](DMR) |
+| ![Drowning_Macrocystis](PREVIEW/Drowning_Macrocystis.jpg) | [Drowning Macrocystis](DMR/VSSM/Drowning_Macrocystis.jpg) | [VSSM](DMR/VSSM) | [DMR](DMR) |
+| ![Shoal_Drift](PREVIEW/Shoal_Drift.jpg) | [Shoal Drift](DMR/VSSM/Shoal_Drift.jpg) | [VSSM](DMR/VSSM) | [DMR](DMR) |
