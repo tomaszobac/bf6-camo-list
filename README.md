@@ -197,3 +197,6 @@ Feel free to report any mistakes or problems.
 | ![Cresting_Wave](PREVIEW/Cresting_Wave.jpg) | [Cresting Wave](DMR/VSSM/Cresting_Wave.jpg) | [VSSM](DMR/VSSM) | [DMR](DMR) |
 | ![Drowning_Macrocystis](PREVIEW/Drowning_Macrocystis.jpg) | [Drowning Macrocystis](DMR/VSSM/Drowning_Macrocystis.jpg) | [VSSM](DMR/VSSM) | [DMR](DMR) |
 | ![Shoal_Drift](PREVIEW/Shoal_Drift.jpg) | [Shoal Drift](DMR/VSSM/Shoal_Drift.jpg) | [VSSM](DMR/VSSM) | [DMR](DMR) |
+| ![Barometric](PREVIEW/Barometric.jpg) | [Barometric](SNIPER_RIFLE/INTERDICTOR/Barometric.jpg) | [INTERDICTOR](SNIPER_RIFLE/INTERDICTOR) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Hurricane](PREVIEW/Hurricane.jpg) | [Hurricane](SNIPER_RIFLE/INTERDICTOR/Hurricane.jpg) | [INTERDICTOR](SNIPER_RIFLE/INTERDICTOR) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Cloud Scatter](PREVIEW/Cloud_Scatter.jpg) | [Cloud Scatter](SNIPER_RIFLE/INTERDICTOR/Cloud_Scatter.jpg) | [INTERDICTOR](SNIPER_RIFLE/INTERDICTOR) | [SNIPER RIFLE](SNIPER_RIFLE) |
