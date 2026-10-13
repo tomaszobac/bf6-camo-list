@@ -200,3 +200,15 @@ Feel free to report any mistakes or problems.
 | ![Barometric](PREVIEW/Barometric.jpg) | [Barometric](SNIPER_RIFLE/INTERDICTOR/Barometric.jpg) | [INTERDICTOR](SNIPER_RIFLE/INTERDICTOR) | [SNIPER RIFLE](SNIPER_RIFLE) |
 | ![Hurricane](PREVIEW/Hurricane.jpg) | [Hurricane](SNIPER_RIFLE/INTERDICTOR/Hurricane.jpg) | [INTERDICTOR](SNIPER_RIFLE/INTERDICTOR) | [SNIPER RIFLE](SNIPER_RIFLE) |
 | ![Cloud Scatter](PREVIEW/Cloud_Scatter.jpg) | [Cloud Scatter](SNIPER_RIFLE/INTERDICTOR/Cloud_Scatter.jpg) | [INTERDICTOR](SNIPER_RIFLE/INTERDICTOR) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Concrete Rumble](PREVIEW/Concrete_Rumble.jpg) | [Concrete Rumble](ASSAULT_RIFLE/MK_24/Concrete_Rumble.jpg) | [MK 24](ASSAULT_RIFLE/MK_24) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Tropical Mire](PREVIEW/Tropical_Mire.jpg) | [Tropical Mire](ASSAULT_RIFLE/MK_24/Tropical_Mire.jpg) | [MK 24](ASSAULT_RIFLE/MK_24) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Feral Mark](PREVIEW/Feral_Mark.jpg) | [Feral Mark](ASSAULT_RIFLE/MK_24/Feral_Mark.jpg) | [MK 24](ASSAULT_RIFLE/MK_24) | [ASSAULT RIFLE](ASSAULT_RIFLE) |
+| ![Perilous Brush](PREVIEW/Perilous_Brush.jpg) | [Perilous Brush](LMG/Z84M/Perilous_Brush.jpg) | [Z84M](LMG/Z84M) | [LMG](LMG) |
+| ![Ferocious Territory](PREVIEW/Ferocious_Territory.jpg) | [Ferocious Territory](LMG/Z84M/Ferocious_Territory.jpg) | [Z84M](LMG/Z84M) | [LMG](LMG) |
+| ![Crimson Leopard](PREVIEW/Crimson_Leopard.jpg) | [Crimson Leopard](LMG/Z84M/Crimson_Leopard.jpg) | [Z84M](LMG/Z84M) | [LMG](LMG) |
+| ![River Rapids](PREVIEW/River_Rapids.jpg) | [River Rapids](SNIPER_RIFLE/ELR-40/River_Rapids.jpg) | [ELR-40](SNIPER_RIFLE/ELR-40) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Tidal Forest](PREVIEW/Tidal_Forest.jpg) | [Tidal Forest](SNIPER_RIFLE/ELR-40/Tidal_Forest.jpg) | [ELR-40](SNIPER_RIFLE/ELR-40) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Dendrocnide](PREVIEW/Dendrocnide.jpg) | [Dendrocnide](SNIPER_RIFLE/ELR-40/Dendrocnide.jpg) | [ELR-40](SNIPER_RIFLE/ELR-40) | [SNIPER RIFLE](SNIPER_RIFLE) |
+| ![Impenetrable Wild](PREVIEW/Impenetrable_Wild.jpg) | [Impenetrable Wild](SMG/RSPR/Impenetrable_Wild.jpg) | [RSPR](SMG/RSPR) | [SMG](SMG) |
+| ![Night Cobra](PREVIEW/Night_Cobra.jpg) | [Night Cobra](SMG/RSPR/Night_Cobra.jpg) | [RSPR](SMG/RSPR) | [SMG](SMG) |
+| ![Midnight Survival](PREVIEW/Midnight_Survival.jpg) | [Midnight Survival](SMG/RSPR/Midnight_Survival.jpg) | [RSPR](SMG/RSPR) | [SMG](SMG) |
