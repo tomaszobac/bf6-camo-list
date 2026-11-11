@@ -212,3 +212,6 @@ Feel free to report any mistakes or problems.
 | ![Impenetrable Wild](PREVIEW/Impenetrable_Wild.jpg) | [Impenetrable Wild](SMG/RSPR/Impenetrable_Wild.jpg) | [RSPR](SMG/RSPR) | [SMG](SMG) |
 | ![Night Cobra](PREVIEW/Night_Cobra.jpg) | [Night Cobra](SMG/RSPR/Night_Cobra.jpg) | [RSPR](SMG/RSPR) | [SMG](SMG) |
 | ![Midnight Survival](PREVIEW/Midnight_Survival.jpg) | [Midnight Survival](SMG/RSPR/Midnight_Survival.jpg) | [RSPR](SMG/RSPR) | [SMG](SMG) |
+| ![Arid_Trip](PREVIEW/Arid_Trip.jpg) | [Arid Trip](CARBINE/NSW4/Arid_Trip.jpg) | [NSW4](CARBINE/NSW4) | [CARBINE](CARBINE) |
+| ![Scorching_Sands](PREVIEW/Scorching_Sands.jpg) | [Scorching Sands](CARBINE/NSW4/Scorching_Sands.jpg) | [NSW4](CARBINE/NSW4) | [CARBINE](CARBINE) |
+| ![Urban_Desert](PREVIEW/Urban_Desert.jpg) | [Urban Desert](CARBINE/NSW4/Urban_Desert.jpg) | [NSW4](CARBINE/NSW4) | [CARBINE](CARBINE) |
